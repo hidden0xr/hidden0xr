@@ -33,3 +33,15 @@ Dashboard to track household device electricity consumption, editable cost simul
 Smart tool to manage spending and installment plans (e.g., Tabby, Tamara) with clear, organized UI and summary charts.  
 
 ![image](https://github.com/user-attachments/assets/04a9e1f5-465b-4762-8484-b4418510bfc3)
+
+---
+
+## 🤖 **4. صندوق النصائح الذكية — مشروع هاكاثون** | **Smart Advice Box — Hackathon Project**
+
+🌍 [Click here to view the live demo](https://tiny-cranachan-7577de.netlify.app/)  
+📄 **الوصف (Arabic):**  
+صندوق نصائح ذكي ثنائي اللغة (عربي وإنجليزي) يستمع للمستخدمين، يكشف عن حالتهم العاطفية، ويقدم نصائح ذكية ومتسقة.  
+📄 **Description (English):**  
+Smart Advice Box is a bilingual emotional assistant that listens to users in Arabic and English, detects their emotional state, and responds with empathetic, intelligent advice rather than mere factual information.  
+
+![image](https://github.com/user-attachments/assets/3067cd11-23bc-461e-aafa-2e26a3e8f650)
