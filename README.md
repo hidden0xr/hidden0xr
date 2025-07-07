@@ -26,7 +26,7 @@ Dashboard to track household device electricity consumption, editable cost simul
 
 ## 💸 **3. المساعد المالي الذكي** | **Smart Financial Assistant**
 
-🌍 [Soon]  
+🌍 [Click here to view the live dashboard](https://v0-personal-finance-assistant-mocha.vercel.app/)  
 📄 **الوصف (Arabic):**  
 نظام لإدارة المصاريف وتتبع أقساط تابي وتمارا، يعرض بياناتك بشكل مبسط ومنظم.  
 📄 **Description (English):**  
@@ -38,7 +38,8 @@ Smart tool to manage spending and installment plans (e.g., Tabby, Tamara) with c
 
 ## 🤖 **4. صندوق النصائح الذكية — مشروع هاكاثون** | **Smart Advice Box — Hackathon Project**
 
-🌍 [Click here to view the live demo](https://tiny-cranachan-7577de.netlify.app/)  
+🌍 [Soon]
+
 📄 **الوصف (Arabic):**  
 صندوق نصائح ذكي ثنائي اللغة (عربي وإنجليزي) يستمع للمستخدمين، يكشف عن حالتهم العاطفية، ويقدم نصائح ذكية ومتسقة.  
 📄 **Description (English):**  
