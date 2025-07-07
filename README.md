@@ -26,7 +26,7 @@ Dashboard to track household device electricity consumption, editable cost simul
 
 ## 💸 **3. المساعد المالي الذكي** | **Smart Financial Assistant**
 
-🌍 [Click here to view the live dashboard](https://v0-personal-finance-assistant-mocha.vercel.app/)  
+🌍 [Soon]  
 📄 **الوصف (Arabic):**  
 نظام لإدارة المصاريف وتتبع أقساط تابي وتمارا، يعرض بياناتك بشكل مبسط ومنظم.  
 📄 **Description (English):**  
