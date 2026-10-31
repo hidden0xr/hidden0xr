@@ -1,29 +1,28 @@
-# Selected Work · Rayan Safwan Filfilan
+# Selected work
 
-Computer Science undergraduate at Umm Al-Qura University, based in Makkah. I explore the intersection of **software, data, service delivery, and operations**.
+I’m Rayan Safwan Filfilan, a Computer Science student in Makkah. My projects come from a simple question: **how could technology make a real service easier to operate, understand, and improve?**
 
-This portfolio is a **non-confidential overview**. Some source repositories are private while their security, documentation, test coverage, and data hygiene are being reviewed. A case study is not a claim that a product was deployed, adopted by an employer, or validated in production.
+The links below are public case studies, not links to confidential application code. I describe the work accurately, distinguish prototypes from deployed systems, and note what still needs independent verification.
 
-| Project | Why I explored it | Evidence and current status |
+## Service operations and software
+
+| Case study | Question behind the work | What to look for |
 | --- | --- | --- |
-| [Mishraf](mishraf.md) | Make hospitality inspection and follow-up more structured | Independent web prototype; implementation and security audit pending |
-| [Rakeen Plus](rakeen-plus.md) | Explore digital support workflows for pilgrims and operations teams | Independent prototype; repository has unit/integration test scripts, but results have not been independently validated |
-| [Customer Complaint Analytics](customer-complaint-analytics.md) | Help teams categorize and review service requests | React/Supabase dashboard prototype; claims about live integrations and AI require verification |
-| [EcoTwin](ecotwin.md) | Explore a geospatial idea with a student team | Led a team during a 2025 virtual geospatial hackathon; certificate of appreciation for participation |
+| [Mishraf — digital inspection workflows](mishraf.md) | How could inspection, follow-up, signatures, and reporting become easier to track? | Workflow modelling, roles, evidence, and audit readiness |
+| [Rakeen Plus — pilgrim service workflows](rakeen-plus.md) | How could teams support requests and coordinate service follow-up digitally? | Operational needs, app architecture, data safety |
+| [Customer Complaint Analytics](customer-complaint-analytics.md) | How can service data reveal recurring problems and unresolved cases? | Charts, categorization, data validity |
 
-## What connects these projects?
+## Data, monitoring and teamwork
 
-During **Hajj 1447H (2026)**, I worked in pilgrim services as part of **Rakeen 4**, supporting service follow-up and coordination with housing and transport teams. That experience increased my interest in how digital systems can make day-to-day service operations easier to understand and manage.
+| Case study | Question behind the work | What to look for |
+| --- | --- | --- |
+| [Raqeeb 4.0 — industrial monitoring](raqeeb-4.md) | Can simulated sensor readings help explore early warnings and operating losses? | MQTT, dashboards, anomaly experiments; not deployed |
+| [EcoTwin — geospatial hackathon](ecotwin.md) | What can a team explore by combining location-based thinking with technology? | Team leadership and documented participation |
 
-I am currently seeking opportunities to learn in **data visualization and analysis, GIS, software development, and related technical operations**.
+## Current engineering priority
 
-## How I describe my work
+These projects are in different stages. I am focusing on architecture review, reproducible tests, reliable documentation, synthetic demo data, and safe release processes before publishing more source code.
 
-- **Implemented** means the function has identifiable code, not necessarily production-grade validation.
-- **Prototype** means exploratory work rather than a live customer service.
-- **Proposed** means a design or idea, not something shown to work.
-- **Unverified** means I have not yet produced reproducible tests or a reliable demo for the claim.
+They are **independent student projects or prototypes**, not officially adopted products of Mashariq or Rakeen. The Hajj experience that helped inspire some ideas was real employment, but development of these prototypes is separate.
 
-I will add source code, sanitized demos, test evidence, and technical retrospectives as each project passes review.
-
-[GitHub profile](https://github.com/hidden0xr) · [LinkedIn](https://www.linkedin.com/in/rfilfilan/)
+[Back to GitHub profile](../README.md) · [LinkedIn](https://www.linkedin.com/in/rfilfilan/)
