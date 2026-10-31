@@ -1,48 +1,39 @@
-# 🎯 **ملف أعمال ريان – Rayan's Portfolio**
+# Rayan Safwan Filfilan
 
-## 📊 **1. لوحة تحليل شكاوى العملاء** | **Customer Complaint Analytics**
+**Computer Science undergraduate at Umm Al-Qura University · Makkah, Saudi Arabia**
 
-🌍 [Click here to view the live dashboard](https://customer-complaint-analytics.netlify.app/)  
-📄 **الوصف (Arabic):**  
-لوحة تفاعلية لتحليل شكاوى العملاء حسب المدينة ونوع الشكوى مع توصيات ذكية بناءً على البيانات.  
-📄 **Description (English):**  
-An interactive dashboard to analyze customer complaints by city and type, with AI-generated recommendations based on real data.  
+I’m interested in **digital products, business analysis, and technology-enabled operations**. I like understanding real service problems, mapping how work gets done, and building prototypes to explore practical improvements.
 
-![image](https://github.com/user-attachments/assets/4e0a6f37-7ea0-4cd9-b2ce-491ee174ac25)
+During **Hajj 1447H (2026)**, I worked with the **Rakeen 4 team at Mashariq** in pilgrim services, supporting service requests and coordination with housing and transport teams.
+
+## Selected work
+
+| Project | Focus | Current status |
+| --- | --- | --- |
+| **Mishraf** | Digital inspection, task follow-up, and reporting workflows for Hajj hospitality centers | Independent prototype; in development; repository private |
+| **Rakeen Plus** | Pilgrim-service workflows, including requests and operational follow-up | Independent prototype; in development; repository private |
+| **Raqeeb 4.0** | Industrial equipment monitoring with simulated sensor readings, MQTT telemetry, and alerts | Experimental prototype; not deployed in a factory |
+| **Customer Complaint Analytics** | Categorizing and tracking service complaints through a dashboard | Prototype; repository private |
+| **EcoTwin** | Geospatial hackathon team project | Led the project team at a virtual hackathon in August 2025; certificate of appreciation |
+
+These are learning and independent project experiences. **They are not presented as deployed customer systems or officially adopted products.** The Hajj-related prototypes are not official Mashariq products.
+
+## Technologies I have worked with
+
+`Java` · `JavaScript / TypeScript` · `React` · `Next.js` · `Node.js` · `SQL / PostgreSQL` · `Prisma` · `Supabase` · `Git`
+
+My current focus is strengthening project documentation, testing, architecture, and secure development practices before publishing more code.
+
+## Beyond code
+
+- **Pilgrim services:** customer service and field coordination during Hajj 1447H in Makkah.
+- **Team leadership:** EcoTwin project team lead during the 2025 virtual geospatial hackathon.
+- **Career direction:** business analysis, digital products, process improvement, and technical project coordination.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/rfilfilan/) · [GitHub](https://github.com/hidden0xr)
 
 ---
 
-## 🔋 **2. متتبع استهلاك الطاقة المنزلية** | **Home Energy Tracker**
-
-🌍 [Click here to view the live dashboard](https://illustrious-blancmange-44ba19.netlify.app/)  
-📄 **الوصف (Arabic):**  
-لوحة بيانات لمتابعة استهلاك أجهزة المنزل للكهرباء مع إمكانية تعديل الأسعار وتوليد تقارير.  
-📄 **Description (English):**  
-Dashboard to track household device electricity consumption, editable cost simulation, and PDF/Excel report exports.  
-
-![image](https://github.com/user-attachments/assets/920324db-eb3e-426f-a4ad-91ae14e49eda)
-
----
-
-## 💸 **3. المساعد المالي الذكي** | **Smart Financial Assistant**
-
-🌍 [Click here to view the live dashboard](https://v0-personal-finance-assistant-mocha.vercel.app/)  
-📄 **الوصف (Arabic):**  
-نظام لإدارة المصاريف وتتبع أقساط تابي وتمارا، يعرض بياناتك بشكل مبسط ومنظم.  
-📄 **Description (English):**  
-Smart tool to manage spending and installment plans (e.g., Tabby, Tamara) with clear, organized UI and summary charts.  
-
-![image](https://github.com/user-attachments/assets/04a9e1f5-465b-4762-8484-b4418510bfc3)
-
----
-
-## 🤖 **4. صندوق النصائح الذكية — مشروع هاكاثون** | **Smart Advice Box — Hackathon Project**
-
-🌍 [Soon]
-
-📄 **الوصف (Arabic):**  
-صندوق نصائح ذكي ثنائي اللغة (عربي وإنجليزي) يستمع للمستخدمين، يكشف عن حالتهم العاطفية، ويقدم نصائح ذكية ومتسقة.  
-📄 **Description (English):**  
-Smart Advice Box is a bilingual emotional assistant that listens to users in Arabic and English, detects their emotional state, and responds with empathetic, intelligent advice rather than mere factual information.  
-
-![image](https://github.com/user-attachments/assets/3067cd11-23bc-461e-aafa-2e26a3e8f650)
+**بالعربي:** أنا ريان صفوان فلفلان، طالب علوم حاسب بجامعة أم القرى. أهتم بتطوير المنتجات الرقمية وتحليل الأعمال وتحسين الخدمات، وأعمل على مشاريع مستقلة تربط التقنية بالتحديات التشغيلية الواقعية.
