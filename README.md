@@ -6,15 +6,17 @@ I’m interested in **digital products, business analysis, and technology-enable
 
 During **Hajj 1447H (2026)**, I worked with the **Rakeen 4 team at Mashariq** in pilgrim services, supporting service requests and coordination with housing and transport teams.
 
+**[View the project case studies →](portfolio/README.md)** — public, non-confidential summaries with implementation boundaries and verification plans.
+
 ## Selected work
 
 | Project | Focus | Current status |
 | --- | --- | --- |
-| **Mishraf** | Digital inspection, task follow-up, and reporting workflows for Hajj hospitality centers | Independent prototype; in development; repository private |
-| **Rakeen Plus** | Pilgrim-service workflows, including requests and operational follow-up | Independent prototype; in development; repository private |
+| **[Mishraf](portfolio/mishraf.md)** | Digital inspection, task follow-up, and reporting workflows for Hajj hospitality centers | Independent prototype; in development; repository private |
+| **[Rakeen Plus](portfolio/rakeen-plus.md)** | Pilgrim-service workflows, including requests and operational follow-up | Independent prototype; in development; repository private |
 | **Raqeeb 4.0** | Industrial equipment monitoring with simulated sensor readings, MQTT telemetry, and alerts | Experimental prototype; not deployed in a factory |
-| **Customer Complaint Analytics** | Categorizing and tracking service complaints through a dashboard | Prototype; repository private |
-| **EcoTwin** | Geospatial hackathon team project | Led the project team at a virtual hackathon in August 2025; certificate of appreciation |
+| **[Customer Complaint Analytics](portfolio/customer-complaint-analytics.md)** | Categorizing and tracking service complaints through a dashboard | Prototype; repository private |
+| **[EcoTwin](portfolio/ecotwin.md)** | Geospatial hackathon team project | Led the project team at a virtual hackathon in August 2025; certificate of appreciation |
 
 These are learning and independent project experiences. **They are not presented as deployed customer systems or officially adopted products.** The Hajj-related prototypes are not official Mashariq products.
 
