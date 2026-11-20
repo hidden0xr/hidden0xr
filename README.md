@@ -39,5 +39,3 @@ I'm preparing for **cooperative training in 2027**, with a strong preference for
 [**LinkedIn**](https://www.linkedin.com/in/rfilfilan/) · [**Project portfolio**](portfolio/README.md)
 
 ---
-
-<sub>أنا ريان، طالب علوم حاسب بجامعة أم القرى. أهتم بتحويل المشكلات التشغيلية إلى حلول تقنية وتجارب قابلة للتطوير. المشاريع المذكورة مستقلة وليست أنظمة رسمية تابعة لجهات عملي السابقة.</sub>
