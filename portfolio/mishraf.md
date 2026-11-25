@@ -2,6 +2,18 @@
 
 **Status:** Independent prototype in development. Private repository. **Not an official Mashariq system.**
 
+## Screenshots
+
+Both screens run on demo data. They are not from a live deployment.
+
+![Mishraf public site, desktop view](assets/mishraf-site-desktop.jpg)
+
+*The public product site: the idea of moving from a field observation to a verified closure.*
+
+![Housing dashboard with today's inspections](assets/mishraf-housing-dashboard.jpg)
+
+*The housing app on a local run with an isolated database and demo data. The interface label reads "Rakeen Ops" in this build. This is a personal prototype, not a Rakeen or Mashariq system.*
+
 ## Problem
 
 Hospitality operations can involve multiple inspections, assignments, follow-ups, notes, signatures, and reports. When information is distributed across channels and documents, tracking who completed each step becomes difficult.

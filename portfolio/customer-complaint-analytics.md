@@ -6,6 +6,18 @@
 
 A team needs to see service complaints by category, time, status, and other dimensions in order to identify recurring issues and follow up on unresolved requests.
 
+## Screenshots
+
+Both screens use a small synthetic sample dataset, not real complaint records.
+
+![Complaint dashboard in Arabic](assets/complaints-dashboard-ar.jpg)
+
+*Arabic view: totals, resolution rate, average response time and open complaints, with charts by type and by city.*
+
+![Complaint dashboard filtered by city, English](assets/complaints-city-filter-en.jpg)
+
+*English view with the city filter set to Mecca.*
+
 ## Technical approach
 
 The repository uses **React, TypeScript, Vite, and Supabase**. The existing project description discusses a bilingual dashboard, filtering, reporting, and complaint-management workflows.
