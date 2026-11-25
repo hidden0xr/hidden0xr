@@ -2,6 +2,18 @@
 
 **Status:** Independent exploratory prototype in development. Private repository. **Not an official product or deployment of Mashariq or Rakeen.**
 
+## Screenshots
+
+Pilgrim-facing package list on a phone-sized screen, with test data. The same screen switches between Arabic, English and Bengali.
+
+<p>
+<img src="assets/rakeen-plus-packages-en.jpg" width="280" alt="Rakeen Plus package list, English">
+&nbsp;
+<img src="assets/rakeen-plus-packages-bn.jpg" width="280" alt="Rakeen Plus package list, Bengali">
+</p>
+
+These are web views at phone size. They are not a shipped native app, and they contain no real pilgrim records.
+
 ## Motivation
 
 Working with the Rakeen 4 pilgrim services team during Hajj 1447H helped me see the importance of clear request tracking, information access, and coordination between the people supporting pilgrims.
